@@ -45,17 +45,17 @@ font = pygame.font.SysFont("Comic Sans MS",60)
 text=font.render("Your Name Is ",Name,True,(225,225,225))
 screen.blit(text,(30,0))
 
-# font = pygame.font.SysFont("Comic Sans MS",60)
-# text=font.render("Your Age Is ",Age,True,(225,225,225))
-# screen.blit(text,(30,50))
+font = pygame.font.SysFont("Comic Sans MS",60)
+text=font.render("Your Age Is ",Age,True,(225,225,225))
+screen.blit(text,(30,50))
 
-# font = pygame.font.SysFont("Comic Sans MS",60)
-# text=font.render("Your Contact No Is ",Contact_No,True,(225,225,225))
-# screen.blit(text,(30,100))
+font = pygame.font.SysFont("Comic Sans MS",60)
+text=font.render("Your Contact No Is ",Contact_No,True,(225,225,225))
+screen.blit(text,(30,100))
 
-# font = pygame.font.SysFont("Comic Sans MS",60)
-# text=font.render("Your Email ID Is ",Email_ID,True,(225,225,225))
-# screen.blit(text,(30,150))
+font = pygame.font.SysFont("Comic Sans MS",60)
+text=font.render("Your Email ID Is ",Email_ID,True,(225,225,225))
+screen.blit(text,(30,150))
 
 EventStatus="None"
 
