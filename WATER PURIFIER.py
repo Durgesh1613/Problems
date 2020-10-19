@@ -31,7 +31,7 @@ if START == "O":
     print("5.PURIFIER RODS ARE EXHAUSTED")
     print(" ")
     print("6.THERE IS NO WATER SOURCE")
-    PROBLEM = int(input("PLEASE ENTEr THE NUMBER OF THE PROBLEM :"))    
+    PROBLEM = int(input("PLEASE ENTER THE NUMBER OF THE PROBLEM :"))    
 
     
 
